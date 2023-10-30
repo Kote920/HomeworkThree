@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HomeworkThree</string>
+    <string name="profile_info">Profile Info</string>
+    <string name="e_mail">E-mail</string>
+    <string name="username">Username</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="age">Age</string>
+    <string name="save">Save</string>
+    <string name="clear">clear</string>
+    <string name="plese_enter_a_valid_age">Plese enter a valid age</string>
+    <string name="please_enter_a_valid_username_at_least_10_symbols">Please enter a valid username (at least 10 symbols)</string>
+    <string name="please_enter_a_valid_e_mail">Please enter a valid E-.mail</string>
+    <string name="please_fill_everything">Please fill everything</string>
+    <string name="again">Again</string>
+    <string name="Succ">%1$s%2$s</string>
+
+</resources>
